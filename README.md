@@ -1,4 +1,8 @@
 # About Pizza Sales Analysis Project 
+
+![Overview](https://github.com/user-attachments/assets/5b3199c8-2e1e-40e9-8b78-5eff928ca08e)
+
+
 This Power BI project presents an in-depth sales analysis of a fictional pizza business using one year of transaction data. The aim of this report is to uncover sales patterns, customer preferences, and profitability trends by analyzing and visualizing data from multiple related CSV files.
 
 **Data Sources:**
